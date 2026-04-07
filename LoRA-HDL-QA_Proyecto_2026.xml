@@ -415,31 +415,73 @@
             <WeekDays>
                 <WeekDay>
                     <DayType>1</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>2</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>3</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>4</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>5</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>6</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>7</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
             </WeekDays>
         </Calendar>
@@ -454,23 +496,73 @@
                 </WeekDay>
                 <WeekDay>
                     <DayType>2</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>23:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>07:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>3</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>23:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>07:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>4</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>23:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>07:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>5</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>23:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>07:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>6</DayType>
-                    <DayWorking>0</DayWorking>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>23:00:00</FromTime>
+                            <ToTime>23:59:59</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>00:00:00</FromTime>
+                            <ToTime>07:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
                 </WeekDay>
                 <WeekDay>
                     <DayType>7</DayType>
@@ -563,7 +655,179 @@
                 </WeekDay>
             </WeekDays>
         </Calendar>
-    </Calendars>
+    
+        <Calendar>
+            <UID>8</UID>
+            <Name>Pablo Flores Resource</Name>
+            <IsBaseCalendar>1</IsBaseCalendar>
+            <BaseCalendarUID>1</BaseCalendarUID>
+            <WeekDays>
+                <WeekDay>
+                    <DayType>1</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>2</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>3</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>4</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>5</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>6</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>7</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+            </WeekDays>
+        </Calendar>
+        <Calendar>
+            <UID>9</UID>
+            <Name>MacBook Resource</Name>
+            <IsBaseCalendar>1</IsBaseCalendar>
+            <BaseCalendarUID>1</BaseCalendarUID>
+            <WeekDays>
+                <WeekDay>
+                    <DayType>1</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>2</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>3</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>4</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>5</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>6</DayType>
+                    <DayWorking>1</DayWorking>
+                    <WorkingTimes>
+                        <WorkingTime>
+                            <FromTime>08:00:00</FromTime>
+                            <ToTime>12:00:00</ToTime>
+                        </WorkingTime>
+                        <WorkingTime>
+                            <FromTime>13:00:00</FromTime>
+                            <ToTime>17:00:00</ToTime>
+                        </WorkingTime>
+                    </WorkingTimes>
+                </WeekDay>
+                <WeekDay>
+                    <DayType>7</DayType>
+                    <DayWorking>0</DayWorking>
+                </WeekDay>
+            </WeekDays>
+        </Calendar></Calendars>
     <Tasks>
         <Task>
             <UID>1</UID>
